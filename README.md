@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello there! My name is Hayitham abu jalhoum. 👋🤓</h2>
-<h3 align="center">A back-end Developer</h3>
+<h3 align="center">A Backend Developer</h3>
 
 
 <h2> Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
@@ -21,10 +21,24 @@ Hi! I'm a Full Stack web developer, with excellent analytical and design capabil
 
 
 
+<hr>
 
+## Technologies & Tools 🔧
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&orange=white&color=orange)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=yellow&color=yellow)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=blueviolet&color=blueviolet)
+![](https://img.shields.io/badge/Code-Tailwindcss-informational?style=for-the-badge&logo=tailwindcss&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Tools-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=red&color=red)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Tool-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=orange&color=orange)
+![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=red&color=red)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=postman&logoColor=orange&color=orange)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=blueviolet&color=blueviolet)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=blue&color=blue)
+
+<br>
 
   ## 🌐 Socials:
 <p align="center">
@@ -34,3 +48,35 @@ Hi! I'm a Full Stack web developer, with excellent analytical and design capabil
    <a href="https://twitter.com/mphomphego"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://instagram.com/mphomphego"><img src="https://img.icons8.com/color/32/instagram.png" alt="instagram"/></a>
 </p>
+
+##Last Projects 🚀
+
+<h3>Website for Marketing company:
+A project for a marketing company that aims to attract customers interested in marketing their business or companies.
+<h3>Features 💥</h3>
+
+- Control Managment System (CMS)
+- Laravel user roles and permissions
+- Email message
+- SMS message
+- Api 
+- Marketings tool (facebook pixel, snapchat psixel,google verfication).
+- <a href="https://tif.sa">Link!</a>
+
+
+
+
+<hr>
+
+<h3>Doctor's appointment booking system</h3>
+A website for doctors to record appointments with patients in a simple and easy to deal with
+<h3>Features</h3>
+
+- single page application
+- Corn job
+- Notifications
+- Tow type of users (Doctor, Organizer)
+- <a href="https://hospital-booking.000webhostapp.com/">Link!</a>
+
+<hr>
+
