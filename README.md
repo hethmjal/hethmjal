@@ -49,7 +49,7 @@ Hi! I'm a Backend web developer, with excellent analytical and design capabiliti
   <a href="https://www.instagram.com/hayitham_ja"><img src="https://img.icons8.com/color/32/instagram.png" alt="instagram"/></a>
 </p>
 
-## Last Projects 🚀
+## Latest projects 🚀
 
 <h3>1- Website for Marketing company </h3>
 A project for a marketing company that aims to attract customers interested in marketing their business or companies.
