@@ -13,7 +13,7 @@
 
 
 <h3 style="color:#242424">Overview.</h3>
-Hi! I'm a Full Stack web developer, with excellent analytical and design capabilities with keen attention to detail and overall quality of end result, my goals are to continue to provide a high-quality development service and to participate in successful projects. I'm specializing in the development of Back-End web applications and working on many applications, from simple API applications to microservices systems.
+Hi! I'm a Backend web developer, with excellent analytical and design capabilities with keen attention to detail and overall quality of end result, my goals are to continue to provide a high-quality development service and to participate in successful projects. I'm specializing in the development of Back-End web applications and working on many applications, from simple API applications to microservices systems.
 
 ### ✍️ Languages
 * Arabic: Mother Language.
@@ -42,11 +42,11 @@ Hi! I'm a Full Stack web developer, with excellent analytical and design capabil
 
   ## 🌐 Socials:
 <p align="center">
-  <a href="mailto:mpho@mphomphego.co.za"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="mailto:hethmjal5@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/hayitham-jal-91221920a/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://facebook.com/hayithamjal"><img src="https://img.icons8.com/color/32/facebook.png" alt="facebook"/></a>
-   <a href="https://twitter.com/mphomphego"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://instagram.com/mphomphego"><img src="https://img.icons8.com/color/32/instagram.png" alt="instagram"/></a>
+   <a href="https://twitter.com/haythamjal"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.instagram.com/hayitham_ja"><img src="https://img.icons8.com/color/32/instagram.png" alt="instagram"/></a>
 </p>
 
 ## Last Projects 🚀
